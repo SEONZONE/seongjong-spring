@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
  * p.62 [리스트 3.5] MemberDao 수정<br>
  * 회원 테이블을 조작하는 Data Access Object
  * 
- * @author Jacob
+ * @author seongjong
  */
 @Repository
 public class MemberDao {
